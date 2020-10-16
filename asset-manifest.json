@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raga4905/project-4-assessment.git/static/css/main.c0835aaf.chunk.css",
+    "main.js": "/raga4905/project-4-assessment.git/static/js/main.49d8555b.chunk.js",
+    "main.js.map": "/raga4905/project-4-assessment.git/static/js/main.49d8555b.chunk.js.map",
+    "runtime-main.js": "/raga4905/project-4-assessment.git/static/js/runtime-main.449c6730.js",
+    "runtime-main.js.map": "/raga4905/project-4-assessment.git/static/js/runtime-main.449c6730.js.map",
+    "static/js/2.e208ecfd.chunk.js": "/raga4905/project-4-assessment.git/static/js/2.e208ecfd.chunk.js",
+    "static/js/2.e208ecfd.chunk.js.map": "/raga4905/project-4-assessment.git/static/js/2.e208ecfd.chunk.js.map",
+    "index.html": "/raga4905/project-4-assessment.git/index.html",
+    "precache-manifest.f3cde43a685841ce68117b82de4ea08c.js": "/raga4905/project-4-assessment.git/precache-manifest.f3cde43a685841ce68117b82de4ea08c.js",
+    "service-worker.js": "/raga4905/project-4-assessment.git/service-worker.js",
+    "static/css/main.c0835aaf.chunk.css.map": "/raga4905/project-4-assessment.git/static/css/main.c0835aaf.chunk.css.map",
+    "static/js/2.e208ecfd.chunk.js.LICENSE.txt": "/raga4905/project-4-assessment.git/static/js/2.e208ecfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449c6730.js",
+    "static/js/2.e208ecfd.chunk.js",
+    "static/css/main.c0835aaf.chunk.css",
+    "static/js/main.49d8555b.chunk.js"
+  ]
+}
